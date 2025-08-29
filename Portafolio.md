@@ -1,5 +1,9 @@
 # Hola, Soy Yordan
 ## Soy programador en Python
 
-Esata es una serie de algoritmos creados en Python, espero que los disfrutes
+Esta es una serie de algoritmos creados en Python
 
+Espero que los disfrutes
+
+### A nalizador de texto
+...
